@@ -1,7 +1,5 @@
 # Comandos
 
-## pwd
-
 Comando utilizado para descobrir o diretório em que estamos atualmente:
 
 ```sh
