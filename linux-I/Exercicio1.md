@@ -1,28 +1,55 @@
-#### Comando utilizado para descobrir o diretório em que estamos atualmente
-pwd
+# Comandos
 
-#### Comando utilizado para mostrar o usuário atual
-whoami
+## pwd
 
-#### Comando necessário para listar os arquivos e diretórios que estão dentro do diretório atual
-ls
+Comando utilizado para descobrir o diretório em que estamos atualmente:
 
-#### Comando para listar todos os arquivos e diretórios, incluindo os ocultos, de uma forma mais detalhada
-ls -la
+```sh
+$ pwd
+```
 
-#### Comando necessário para exibir uma mensagem qualquer no terminal
-echo "mensagem"
+Comando utilizado para mostrar o usuário atual:
 
-#### Comando para criar um arquivo com a mensagem passada
-echo "mensagem" > mensagem.txt
+```sh
+$ whoami
+```
 
-#### Comando para limpar a tela do terminal
-clear
+Comando necessário para listar os arquivos e diretórios que estão dentro do diretório atual:
 
-#### Atalho equivalente ao comando clear
+```sh
+$ ls
+```
+
+Comando para listar todos os arquivos e diretórios, incluindo os ocultos, de uma forma mais detalhada
+
+```sh
+$ ls -la
+```
+
+Comando necessário para exibir uma mensagem qualquer no terminal
+
+```sh
+$ echo "mensagem"
+```
+
+Comando para criar um arquivo com a mensagem passada
+
+```sh
+$ echo "mensagem" > mensagem.txt
+```
+
+Comando para limpar a tela do terminal
+
+```sh
+$ clear
+```
+
+Atalho equivalente ao comando clear
 Ctrl + L
 
-#### Comando para ver a documentação de algum comando no terminal
-man ${comando}
+Comando para ver a documentação de algum comando no terminal
 
-Exemplo: man ls
+```sh
+$ man ${comando}
+$ man ls
+```
