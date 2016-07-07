@@ -1,12 +1,27 @@
-# Comando para mudar de diretório
-cd ${diretório}
-Exemplo: cd pasta
+# Comandos
 
-# Comando adicionar um texto qualquer em um arquivo ja existente
-echo "Text" >> arquivo.txt
+Comando para mudar de diretório
 
-# Comando para criar pasta
-mkdir pasta1
+```sh
+$ cd diretorio
+```
 
-# Comando para voltar para o home
-cd
+Comando adicionar um texto qualquer em um arquivo ja existente
+
+```sh
+$ echo "Text" >> arquivo.txt
+```
+
+Comando para criar pasta
+
+```sh
+$ mkdir pasta1
+```
+
+
+Comando para voltar para o home
+
+```sh
+$ cd
+```
+
