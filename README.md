@@ -1,2 +1,2 @@
-# linux
-Repositório para estudoes em Linux
+# Linux
+Repositório para estudos em Linux
