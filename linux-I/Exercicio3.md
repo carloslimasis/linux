@@ -1,16 +1,32 @@
-# Comando para apagar diretórios vazios
-rmdir pasta1
+# Comandos
 
-# Comando para ler todos os arquivos que contenham apenas um caractere após o nome "arquivo" e antes da extensão ".txt"
-cat arquivo?.txt
+Comando para apagar diretórios vazios
 
-# Comando para ler todos os arquivos que contenham quaisquer caracteres após o nome "arquivo" e antes da extensão ".txt"
-cat arquivo*.txt 
-ou 
-cat *.txt
+```sh
+$ rmdir pasta1
+```
 
-# Comando para exlcuir um arquivo qualquer
-rm arquivo.txt
+Comando para ler todos os arquivos que contenham apenas um caractere após o nome "arquivo" e antes da extensão ".txt"
 
-# Comando para excluir diretório recursivamente
-rm -r pasta1
+```sh
+$ cat arquivo?.txt
+```
+
+Comando para ler todos os arquivos que contenham quaisquer caracteres após o nome "arquivo" e antes da extensão ".txt"
+
+```sh
+$ cat arquivo*.txt 
+$ cat *.txt
+```
+
+Comando para exlcuir um arquivo qualquer
+
+```sh
+$ rm arquivo.txt
+```
+
+Comando para excluir diretório recursivamente
+
+```sh
+$ rm -r pasta1
+```
