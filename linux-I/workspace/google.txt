@@ -1,0 +1,25 @@
+Google Inc. (NASDAQ: GOOG)[8] (Google, pronuncia-se AFI: [ˈguːgɫ̩][9] )[10] é uma empresa multinacional de serviços online e software dos Estados Unidos. O Google hospeda e desenvolve uma série de serviços e produtos baseados na internet e gera lucro principalmente através da publicidade pelo AdWords.[11] [12] A Google é a principal subsidiária da recém-criada Alphabet Inc.[13]
+
+A empresa foi fundada por Larry Page e Sergey Brin, muitas vezes apelidados de "Google Guys",[14] [15] [16] enquanto os dois estavam frequentando a Universidade Stanford como estudantes de doutoramento. Foi fundada como uma empresa privada em 4 de setembro de 1998 e sua oferta pública inicial foi realizada em 19 de agosto de 2004. A missão declarada da empresa desde o início foi "organizar a informação mundial e torná-la universalmente acessível e útil"[17] e seu slogan, que foi inventado pelo engenheiro Paul Buchheit, é “Don't be evil” em inglês e “Não seja mau” em português.[1] [2] [18] Em 2006, a empresa mudou-se para sua atual sede, em Mountain View, Condado de Santa Clara no estado da Califórnia. O Google é executado através de mais de um milhão de servidores em data centers ao redor do mundo[19] e processa mais de um bilhão de solicitações de pesquisa[20] e vinte petabytes de dados gerados por usuários todos os dias.[21] [22] [23]
+
+O rápido crescimento do Google desde sua incorporação culminou em uma cadeia de outros produtos, aquisições e parcerias que vão além do núcleo inicial como motor de buscas. A empresa oferece softwares de produtividade online, como o software de e-mail Gmail, e ferramentas de redes sociais, incluindo o Google+ e os descontinuados Google Buzz e Orkut. Os produtos do Google se estendem à área de trabalho, com aplicativos como o navegador Google Chrome, o programa de organização de edição de fotografias Picasa e o aplicativo de mensagens instantâneas Google Talk. Notavelmente, o Google também lidera o desenvolvimento do sistema operacional móvel para smartphones Android, usado em celulares como o Nexus 6, Motorola Moto X e o Samsung Galaxy S6.
+
+O Alexa classifica o Google como o website mais visitado do mundo.[24] O Google também foi classificado pela revista Fortune como o quarto melhor lugar do mundo para se trabalhar[25] e é a marca mais valiosa do mundo de acordo com o ranking BrandZ de 2016, avaliada em 229 bilhões de dólares[26] . Em outro ranking de avaliação de marcas, ultrapassou em 2014 a Apple, que liderava por três anos consecutivos, com um valor estimado de US$ 159 bilhões.[27] A posição dominante no mercado dos serviços do Google levou a críticas da sociedade sobre assuntos como privacidade, direitos autorais e censura.[28] [29]
+
+ A página original do Google (1998) tinha um desenho simples, já que seus fundadores não tinham experiência em HTML
+
+, a linguagem para páginas de web design
+
+.[30]
+
+O Google começou em janeiro de 1996 como um projeto de pesquisa de Larry Page e Sergey Brin, quando ambos eram estudantes de doutorado na Universidade Stanford, na Califórnia, Estados Unidos.[31]
+
+Enquanto os motores de busca convencionais exibiam resultados classificados pela contagem de quantas vezes os termos de busca apareciam na primeira página, os dois teorizaram sobre um sistema melhor que analisava as relações entre os sites.[32] Eles chamaram esta nova tecnologia PageRank, onde a relevância de um site era determinada pelo número de páginas, bem como pela importância dessas páginas, que ligavam de volta para o site original.[33] [34]
+
+Um pequeno motor de busca chamado "RankDex" da IDD Information Services, projetado por Robin Li, desde 1996, já explorava uma estratégia semelhante para pontuação e classificação de páginas.[35] A tecnologia do RankDex seria patenteada e usada mais tarde por Li, quando fundou a Baidu na China.[36] [37]
+
+Page e Brin originalmente apelidaram de sua nova ferramenta de busca de "BackRub", porque o sistema de checava backlinks para estimar a importância de um site.[38] [39] [40]
+
+Eventualmente, eles mudaram o nome para o Google, proveniente de um erro ortográfico da palavra "googol",[41] [42] o número um seguido por cem zeros, que foi criado para indicar a quantidade de informação que o motor de busca podia processar, o nome também reflete a missão de organizar uma quantidade aparentemente infinita de informações na web.[43] [44] Originalmente, o Google funcionou sob o site da Universidade Stanford, com o domínio google.stanford.edu, com os direitos de autor mencionados à universidade no final de sua página à época.[45]
+
+O nome de domínio "Google" foi registrado em 15 de setembro de 1997[46] e a empresa foi constituída em 4 de setembro de 1998. No início, sua sede ficava na garagem de uma amiga (Susan Wojcicki[31] ) em Menlo Park, Califórnia. Craig Silverstein, um colega de doutorado estudante em Stanford, foi contratado como o primeiro funcionário.[31] [47] [48]
