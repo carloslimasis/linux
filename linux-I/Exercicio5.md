@@ -1,12 +1,26 @@
-# Comando para compactar arquivos
-zip arquivos.zip arquivo1.txt
-zip arquivos.zip *.txt
+# Comandos
 
-# Comando para compactar diretórios
-zip -r arquivos.zip diretorio/
+Comando para compactar arquivos
 
-# Comando para descompactar 
-unzip arquivos.zip
+```sh
+$ zip arquivos.zip arquivo1.txt
+$ zip arquivos.zip *.txt
+```
 
-# Comando para listar os arquivos e diretórios que se encontram compactados dentro de um arquivo .zip
-unzip -l arquivos.zip
+Comando para compactar diretórios
+
+```sh
+$ zip -r arquivos.zip diretorio/
+```
+
+Comando para descompactar 
+
+```sh
+$ unzip arquivos.zip
+```
+
+Comando para listar os arquivos e diretórios que se encontram compactados dentro de um arquivo .zip
+
+```sh
+$ unzip -l arquivos.zip
+```
