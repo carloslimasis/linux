@@ -1,9 +1,20 @@
-# Comando utilizado para mudar a data de modificação do arquivo para a data atual
-touch arquivo-existente.txt
+# Comandos
 
-# Comando para obter a data atual
-date
+Comando utilizado para mudar a data de modificação do arquivo para a data atual
 
-# Comando para obter a data atual formatada
-date "+%d/%m/%Y"
-date "+%d de %C de %Y"
+```sh
+$ touch arquivo-existente.txt
+```
+
+Comando para obter a data atual
+
+```sh
+$ date
+```
+
+Comando para obter a data atual formatada
+
+```sh
+$ date "+%d/%m/%Y"
+$ date "+%d de %C de %Y"
+```
