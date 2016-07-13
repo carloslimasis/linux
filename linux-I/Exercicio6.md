@@ -1,8 +1,19 @@
-# Comando necessário para compactar um diretório, utilizando o comando tar, para o arquivo do tipo .tar.gz
-tar -czf arquivo.tar.gz diretorio/
+# Comandos
 
-# Comando para descompactar um arquivo tar
-tar -xzf arquivo.tar.gz
+Comando necessário para compactar um diretório, utilizando o comando tar, para o arquivo do tipo .tar.gz
 
-# Comando para compactar um diretorio em bz2
-tar -cjf arquivo.tar.bz2 diretorio/
+```sh
+$ tar -czf arquivo.tar.gz diretorio/
+```
+
+Comando para descompactar um arquivo tar
+
+```sh
+$ tar -xzf arquivo.tar.gz
+```
+
+Comando para compactar um diretorio em bz2
+
+```sh
+$ tar -cjf arquivo.tar.bz2 diretorio/
+```
