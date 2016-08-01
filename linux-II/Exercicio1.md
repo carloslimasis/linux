@@ -24,6 +24,12 @@ Comando para retomar a execução de um processo
 ```sh
 $ kill -CONT PID
 ```
+
+Comando para encerrar um processo de uma maneira menos "drástica"
+```sh
+$ kill PID
+```
+
 Comando para matar um processo
 ```sh
 $ kill -9 PID
