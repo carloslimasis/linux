@@ -19,4 +19,4 @@ x
 Comando utilizado no modo de comandos do vi para apagar uma linha
 ```
 dd
-```
+``
