@@ -1,4 +1,4 @@
-#12. Compilando a partir do código fonte: Make e Git
+#12. Compilando a partir do código fonte: Make
 
 Comando utilizado para testar configuracao de um pacote qualquer
 ```sh
